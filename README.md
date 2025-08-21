@@ -1,1 +1,1 @@
-Este é um projeto para testar conhecimentos lógicos para introduzir a sintaxe Java.
+Este é um projeto apenas para introduzir a sintaxe Java através de pequeno desafios lógicos.
